@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "2.13.6",
+  "versionCode": 8,
+  "versionName": "2.13.7",
   "minVersionCode": 1,
-  "apkUrl": "https://spaguet.github.io/android/tangodb-crm-2.13.6.apk",
-  "sha256": "be1a95ab170a2584fbb6f1a937a29b2ca740b631e95916fbd5521032661f0219",
-  "releaseNotes": "CRM 2.13.6 — staff app (Capacitor)."
+  "apkUrl": "https://spaguet.github.io/android/tangodb-crm-2.13.7.apk",
+  "sha256": "096ced02ce8f5730cda7a1ba255582369ddd35040718230efbc1b204bf9bbb27",
+  "releaseNotes": "CRM 2.13.7 — staff app (Capacitor)."
 }
