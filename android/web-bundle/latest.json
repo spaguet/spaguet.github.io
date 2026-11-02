@@ -1,8 +1,8 @@
 {
-  "appVersion": "2.13.7",
-  "bundleHash": "2e4e751c97e6a1e3",
-  "bundleUrl": "https://spaguet.github.io/android/web-bundle/tangodb-web-bundle-2e4e751c97e6a1e3.zip",
-  "sha256": "2e4e751c97e6a1e3da5928790e5a8566b1ac3157b9aebde06f021a7d538837bf",
+  "appVersion": "2.13.8",
+  "bundleHash": "44ea918a2f943884",
+  "bundleUrl": "https://spaguet.github.io/android/web-bundle/tangodb-web-bundle-44ea918a2f943884.zip",
+  "sha256": "44ea918a2f94388463cd40d2557f2193050be7e9bedf23fd5d710cc10d85377f",
   "releaseNotes": "",
-  "signature": "MEQCIALeaaCAB9pN1OjS1nbKXH6oi2+zbW6uu+w19sdXbvHoAiASje7wavS1PuQniFToGURn8wqsOR7+rxXay9ASHmxGXQ=="
+  "signature": "MEUCIFuxr1Wivd9eOn4yrTNZvRJ9dr0ax3ctsx8ONND7vbVhAiEA41hGr5dwCTepCQBkWk5aDO4q7s5R0RoWd2evRnc1r1M="
 }
